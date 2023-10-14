@@ -1,0 +1,26 @@
+{
+    "jeeps": [
+        {
+            "id": 1,
+            "model": "CJ-5",
+            "engine": {
+                "type": "Straight 6",
+                "model": "258 4.2L",
+                "horsepower": "74.5 kW / 101 PS / 100 hp"
+            }
+        },
+        {
+            "id": 2,
+            "model": "Commando",
+            "engine": {
+                "type": "V8",
+                "model": "304 5.0L",
+                "horsepower": "112 kW / 152 PS / 150 hp"
+            }
+        }
+    ],
+    "collection": {
+        "year": "1973",
+        "manufacturer": "American Motors Corporation (AMC)"
+    }
+}
